@@ -2,6 +2,10 @@
 
 A short, focused PowerShell script to automate ensuring that all instances of EZ Tools in a given path have updated ancillary files
 
+## Example
+
+`.\Sync-EZTools.ps1 -d C:\temp\Path\To\EZTools`
+
 ## Use Case
 
 If you download EZ Tools using [Get-ZimmermanTools.ps1](https://ericzimmerman.github.io/#!index.md), this is the script for you! Making sure your EZ Tools are updated is only half the battle. Did you know that EvtxECmd, RECmd, and SQLECmd rely on YAML files that help enhance the output in various ways? You need to keep those updated! This script will help automate that process! But first, you must download EZ Tools, similar to the following example:  
