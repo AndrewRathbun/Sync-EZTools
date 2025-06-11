@@ -1,6 +1,6 @@
 # Sync-EZTools
 
-A short, focused PowerShell script to automate ensuring that all instances of EZ Tools in a given path have updated ancillary files
+A short, focused PowerShell script to automate ensuring that all instances of EZ Tools in a given path have updated [ancillary files](https://youtu.be/mIb1GQP3ciE)
 
 ## Example
 
